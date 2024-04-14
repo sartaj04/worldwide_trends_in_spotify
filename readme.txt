@@ -1,0 +1,1 @@
+Read me to run our code:The code is split into two Jupyter notebooks1. Popularity.ipynb contains the EDA ,Data Preparation, Dimensionality reduction, popularity prediction 2. Region.ipynb contains the region prediction The notebooks have to be run in order mentioned above for the new dataset to be generated and the code to fetch the results submitted. Thanks. 
